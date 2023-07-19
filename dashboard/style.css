@@ -1,0 +1,54 @@
+body {
+
+   font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e2593c;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    max-height: 100px; 
+}
+
+
+
+main {
+    padding: 20px;
+}
+
+.about {
+    margin-bottom: 30px;
+}
+
+.product-photos img {
+    max-width: 200px; 
+    margin-right: 10px;
+}
+
+
+footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    align-items: right; 
+  }
+  
+  .logo {
+    max-width: 150px; 
+    margin-right: 10px; 
+  }
+  
